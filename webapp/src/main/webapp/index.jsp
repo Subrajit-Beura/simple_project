@@ -1,4 +1,13 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<hs is subrajit Beura demo stand i trieed, i will> </h2>
-<h2> Glad to see you here </h2>
-<h3> Subrajit Loves AMISA SAMAL </h3>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First War File Deployed on Jenkins</h1>
+<p>My first paragraph.</p>
+<p style="color:red;">This is My Budhi Asuruni(Amisa).</p>
+<h1 style="color:Tomato;">Red Tomato My Asuruni</h1>
+<p style="color:DodgerBlue;">I Love hER SO MUCH...</p>
+<p style="color:MediumSeaGreen;">SE GOTE PAGELI...</p>
+
+</body>
+</html>
